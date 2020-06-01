@@ -1,16 +1,13 @@
 # Development Strategy
 
-> `name-of-project`
+> `Hunter_Of_Duck`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+A real web site for HYF students to improve their front-end, Git workflow, and soft skills
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+
+![wireframe](./img/duckduckwireframe.png)
 
 ## 0. Set-Up
 
@@ -18,17 +15,24 @@ __A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
+- [Generate from Template](https://github.com/HackYourFutureBelgium/w3-validation-template)
+- Clone the repository
+- Give a title and description of your project to your README
+- Add meta tags,files links and title in the head
+- Add wireframe
+- Push the changes
 - Turn on GitHub Pages
 
-## 1. __
+## 1. Semantic Header
 
-__full user story description__
+__As a site visitor, I want to see the header and navbar menu without styled__
 
 ### Repo
 
-what branch(es) did you work on?
+This user story was developed on a branch called `head-nav`
+
+> assigned to `Mamé`  
+> reviewer is `Oguz`
 
 ### HTML
 
