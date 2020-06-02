@@ -75,6 +75,23 @@ This user story was developed on a branch called `head-nav-style`
 - adjust logo and h1
 - made box-sizing as border-box to easy calculate total width
 
+## 3. Last Features of Website
+
+__As a site visitor, I want to see website features separately in  the whole screen  and also a button to add features to google chrome__
+
+### Repo
+
+This user story was developed on a branch called `article-last`
+
+> assigned to `Mamé`  
+> reviewer is `Oguz`
+
+### HTML
+
+
+### CSS
+ 
+
 ## Finishing Touches
 
 - Write final, complete README:

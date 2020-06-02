@@ -5,9 +5,11 @@
     box-sizing: border-box;
 }
 
-body {
+body,html {
    
-   font-family:  "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+    font-family:  "DDG_ProximaNova","DDG_ProximaNova_UI_0","DDG_ProximaNova_UI_1","DDG_ProximaNova_UI_2","DDG_ProximaNova_UI_3","DDG_ProximaNova_UI_4","DDG_ProximaNova_UI_5","DDG_ProximaNova_UI_6","Proxima Nova","Helvetica Neue","Helvetica","Segoe UI","Nimbus Sans L","Liberation Sans","Open Sans",FreeSans,Arial,sans-serif;
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -35,6 +37,53 @@ header h1 {
 .fa-volume-up,.fa-angle-down, .fa-bars {
     color: #aaaaaa;
     font-size: 1.2rem ;
+}
+
+
+/*last-article*/
+
+#article-5 {
+    background-color: #87cef5;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.dismiss{
+    color:rgba(0,0,0,0.5);
+    cursor: pointer;
+}
+.pipe-sign{
+    font-size: 14px;
+    color: rgba(0,0,0,0.4);
+}
+.back-search{
+    cursor: pointer;
+    color: rgba(0,0,0,0.7);
+    font-weight: bold;
+}
+
+#alpinist{
+
+    position: absolute;
+    bottom: 0;
+}
+.add-chrome-last {
+    background-color: #365374;
+    color:#fff;
+}
+
+a:hover .add-chrome-last{
+    color: #fff;
+}
+
+#last-card{
+    border: none !important;
+    background-color: #87cef5;
+}
+#last-card h2 {
+
+    font-weight: 800;
 }
 
 
