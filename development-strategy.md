@@ -45,11 +45,35 @@ This user story was developed on a branch called `head-nav`
 
 -Nothing has changed
 
-## 2. ...
+## 2. Header Style
 
-...
+__As a site visitor, I want to see the header and navbar menu styled__
 
-...
+### Repo
+
+This user story was developed on a branch called `head-nav-style`
+
+> assigned to `Mamé`  
+> reviewer is `Oguz`
+
+### HTML
+
+- changed same div tags
+- add font awesome icons
+- with bootstrap align-items
+- add font awesome link and bootstrap css file
+- add duckduckgo icon
+- adjust input field 
+- make first container as fluid to cover all screen
+
+### CSS
+
+- change the color of icons,
+- made navbar responsive
+- added font family
+- gave background for header
+- adjust logo and h1
+- made box-sizing as border-box to easy calculate total width
 
 ## Finishing Touches
 
