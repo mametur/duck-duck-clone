@@ -23,7 +23,7 @@ __A User can see my initial repository and live demo__
 - Push the changes
 - Turn on GitHub Pages
 
-## 1. Semantic Header
+## 1. Header
 
 __As a site visitor, I want to see the header and navbar menu without styled__
 
@@ -36,11 +36,14 @@ This user story was developed on a branch called `head-nav`
 
 ### HTML
 
-what did you change in the HTML and why?
+- added divs and classes for bootstrap 
+- added h1
+- added button for menu
+- Added img tag without src
 
 ### CSS
 
-what did you change in the CSS and why?
+-Nothing has changed
 
 ## 2. ...
 
