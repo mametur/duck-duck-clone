@@ -88,9 +88,20 @@ This user story was developed on a branch called `article-last`
 
 ### HTML
 
+- Added bootstrap classes
+- Added website features content
+- Added button and image tags
+- Add bootstrap card to manage content more easily
+
 
 ### CSS
- 
+
+- styled HTML tags
+- made responsive 
+- added hover on button
+- linked within a page
+- align image center and bottom of the page
+- align content center of the page
 
 ## Finishing Touches
 
