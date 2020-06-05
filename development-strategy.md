@@ -185,6 +185,31 @@ This user story was developed on a branch called `article-2`
 - Used position(relative and absolute) property for to fix the picture below
 - Used `border-radius` property for for a nice view of the button
 
+## 7. Article-3
+
+__As a site visitor, I want to see the third article section with a different background color__
+
+### Repo
+
+This user story was developed on a branch called `article-3`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-3`
+- Added title with `h1` tag
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+
 ## Finishing Touches
 
 - Write final, complete README:
