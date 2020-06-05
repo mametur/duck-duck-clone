@@ -160,6 +160,31 @@ This user story was developed on a branch called `main-article`
 - Used `border-radius` property for for a nice view of the button
 - Used `list-style:none;` property for list items
 
+## 6. Article-2
+
+__As a site visitor, I want to see the second article section with different background color and website privacy policy features about storing below the main article.__
+
+### Repo
+
+This user story was developed on a branch called `article-2`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-2`
+- Added title with `h1` tag
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+
 ## Finishing Touches
 
 - Write final, complete README:
