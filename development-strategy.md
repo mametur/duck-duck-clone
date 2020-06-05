@@ -130,6 +130,36 @@ This user story was developed on a branch called `article-advertiser`
 - align image center and bottom of the page
 - align content center of the page
 
+## 5. Main-Article
+
+__As a site visitor, I want to see the main section and website general content features below the header__
+
+### Repo
+
+This user story was developed on a branch called `main-article`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-1`
+- Used bootstrap classes (container, row and img-fluid)
+- Added title with `h1` tag
+- Added `ol` ordered list for general content privacy features
+- Added `li` tag and used `span` tag for heavy check mark icons
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Changed the color of heavy check mark icons,
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+- Used `list-style:none;` property for list items
+
 ## Finishing Touches
 
 - Write final, complete README:
