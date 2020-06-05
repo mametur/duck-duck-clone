@@ -130,6 +130,7 @@ This user story was developed on a branch called `article-advertiser`
 - align image center and bottom of the page
 - align content center of the page
 
+
 ## 5. Main-Article
 
 __As a site visitor, I want to see the main section and website general content features below the header__
@@ -209,6 +210,30 @@ This user story was developed on a branch called `article-3`
 - Used align and justify properties for centering
 - Used position(relative and absolute) property for to fix the picture below
 - Used `border-radius` property for for a nice view of the button
+
+## 8. Search Button and Tooltip
+
+_As a site visitor, I want to see search button and when I mouse over on the website logo want to see information of its.__
+
+### Repo
+
+This user story was developed on a branch called `search-button`
+
+> assigned to `Mamé`
+> reviewer is `Oguz`
+
+### HTML
+
+- Added bootstrap classes
+- Added tooltip
+- Added search icon
+- Added javascript file to delay tooltip
+
+### CSS
+
+- styled HTML tags
+- styled tooltip
+- used `hover` selector to change background-color
 
 ## Finishing Touches
 
