@@ -38,6 +38,41 @@ header h1 {
     font-size: 1.2rem ;
 }
 
+header input,header button {
+    border-color: #d9d9d9 !important;
+    box-shadow:0 2px 0x rgba(0,0,0,0.06);
+}
+header input:focus {
+  box-shadow: none !important;
+}
+header button i.fa {
+    color: #999;
+    font-size: 20.52px;
+}
+header button:hover{
+    background-color: #66ad57 !important;
+    outline: none;
+   
+}
+header button:hover i {
+    color: #fff ;
+}
+header button:focus {
+    box-shadow: none !important;
+}
+
+/*tooltip*/
+
+.tooltip-inner {
+    background-color:rgba(138,138,138,0.9) !important;
+    color: #fff !important;
+}
+
+.bs-tooltip-right .arrow::before {
+    
+border-right-color: rgba(138,138,138,0.9) !important;
+}
+
 
 /*last-article*/
 
