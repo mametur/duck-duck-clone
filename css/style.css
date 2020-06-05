@@ -83,7 +83,7 @@ border-right-color: rgba(138,138,138,0.9) !important;
     text-align: left;
     margin-top: 50px;
 }
-.privacy .container h1 {
+.privacy .container h2 {
     font-weight: bold;
 }
 .privacy .container ol {
@@ -131,7 +131,7 @@ border-right-color: rgba(138,138,138,0.9) !important;
     font: inherit;
     color: #fff;
 }
-#article-2 .article-box h1 {
+#article-2 .article-box h2 {
     padding-top: 2em;
     padding-bottom: 1em;
     margin-top: 0;
@@ -176,7 +176,7 @@ border-right-color: rgba(138,138,138,0.9) !important;
     font: inherit;
     color: #fff;
 }
-#article-3 .article-box h1 {
+#article-3 .article-box h2 {
     padding-top: 2em;
     padding-bottom: 1em;
     margin-top: 0;
