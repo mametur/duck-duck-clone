@@ -103,7 +103,7 @@ border-right-color: rgba(138,138,138,0.9) !important;
     align-items: center;
     justify-content: center;
     background-color: #678fff;
-    border-color: #678fff;
+    
     color: white;
     box-sizing: border-box;
     font-weight: normal;
@@ -249,7 +249,7 @@ border-right-color: rgba(138,138,138,0.9) !important;
     font-weight: 700;
     padding: 17px 24px 15px !important;
     background: #365374 !important;
-    border-color: #365374;
+    
 
 }
 
