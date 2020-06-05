@@ -130,6 +130,87 @@ This user story was developed on a branch called `article-advertiser`
 - align image center and bottom of the page
 - align content center of the page
 
+
+## 5. Main-Article
+
+__As a site visitor, I want to see the main section and website general content features below the header__
+
+### Repo
+
+This user story was developed on a branch called `main-article`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-1`
+- Used bootstrap classes (container, row and img-fluid)
+- Added title with `h1` tag
+- Added `ol` ordered list for general content privacy features
+- Added `li` tag and used `span` tag for heavy check mark icons
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Changed the color of heavy check mark icons,
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+- Used `list-style:none;` property for list items
+
+## 6. Article-2
+
+__As a site visitor, I want to see the second article section with different background color and website privacy policy features about storing below the main article.__
+
+### Repo
+
+This user story was developed on a branch called `article-2`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-2`
+- Added title with `h1` tag
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+
+## 7. Article-3
+
+__As a site visitor, I want to see the third article section with a different background color__
+
+### Repo
+
+This user story was developed on a branch called `article-3`
+
+> assigned to `Oguz`  
+> reviewer is `Mame`
+
+### HTML
+
+- Added `article` tag with id name `article-3`
+- Added title with `h1` tag
+- Added paragraph with `p` tag
+- Added image with `img` tag and `img-fluid` bootstrap class
+
+### CSS
+
+- Added background, color, padding, margin and font properties
+- Used align and justify properties for centering
+- Used position(relative and absolute) property for to fix the picture below
+- Used `border-radius` property for for a nice view of the button
+
 ## 8. Search Button and Tooltip
 
 _As a site visitor, I want to see search button and when I mouse over on the website logo want to see information of its.__
