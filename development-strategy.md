@@ -235,6 +235,25 @@ This user story was developed on a branch called `search-button`
 - styled tooltip
 - used `hover` selector to change background-color
 
+## 9. Fixing to validation errors
+
+_As a site visitor, I want to see zero error when I check the validation__
+
+### Repo
+
+This user story was developed on a branch called `validation`
+
+> assigned to `Mamé-Oguz`
+> reviewer is `Oguz-Mamé`
+
+### HTML
+
+- Fixed HTML validation errors
+
+### CSS
+
+- Fixed CSS errors
+
 ## Finishing Touches
 
 - Write final, complete README:
