@@ -32,7 +32,7 @@ var click_hamburger = document.getElementById('icon-hamburger');
  click_close_sign.addEventListener("click", change_close);
 
 
-
+/*check here */
 /* idea here is to detect click events on the page, and set the container,s to
 display to none only when the target of the click isnt one of the div descendants
 */
