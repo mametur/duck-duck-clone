@@ -254,6 +254,29 @@ This user story was developed on a branch called `validation`
 
 - Fixed CSS errors
 
+## 10. Side-Menu
+
+_As a site visitor, I want to see more information when clicking on the hamburger button __
+
+### Repo
+
+This user story was developed on a branch called `side-menu`
+
+> assigned to `Mamé`  
+> reviewer is `Oguz`
+
+### HTML
+
+- Added side-menu contents and tags
+
+### CSS
+
+- styled html content
+
+### Javascript
+
+- Added event listener for turn on&&of hamburger button
+
 ## Finishing Touches
 
 - Write final, complete README:

@@ -15,26 +15,67 @@
   
    <!-- Leave this here!  It renders the review buttons  -->
    <link rel="stylesheet" href="./css/style.css">
-   <script src='./evaluation/init.js'></script>
+   
    <title>duck-duck-clone</title>
 </head>
 <body>
+  <div id="side-menu" class="container-fluid">
+      <div class="mt-3 pl-2">
+        
+          <div class="d-flex justify-content-between mb-2">
+            <h2 class="align-self-center">settings</h2>
+            <p class="align-self-center" ><span class="close" id="close">X</span></p>
+          </div>
+            <a href="#" >Themes</a>
+            <a href="#" >Private Search</a>
+            <a href="#" >!Bang Search Shourtcuts</a>
+        
+
+        <div class="mb-5 mt-5 ">
+          <h2>PRIVACY ESSENTIALS</h2>
+          <a href="#" > Private Search</a>
+         <a href="#" >App and Extension</a>
+        </div>
+
+        <div class="mb-5">
+          <h2>WHY PRIVACY</h2>
+          <a href="#" >Privacy Blog</a>
+         <a href="#" >Privacy Crash Course</a>
+         <a href="#" >Help Spread Privacy</a>
+        </div>
+       <div class="mb-5">
+          <h2>WHO WE ARE</h2>
+          <a href="#" >About Us</a>
+         <a href="#" >Privacy Policy</a>
+         <a href="#" >Careers</a>
+         <a href="#" >Press Kit</a>
+        </div>
+        <div class="">
+          <h2>KEEP IN TOUCH</h2>
+          <a href="#" >Twitter</a>
+         <a href="#" >Store</a>
+         <a href="#" >Reddit</a>
+         <a href="#" >Help</a>
+        </div>
+      </div>  
+  
+  </div>
 
   <header>
       <div class="container-fluid">
-          <nav class="mt-4">
-          <div class="row mt-2 justify-content-end align-items-center no-gutters">      
-                <div class="col-1 d-flex justify-content-end " >
-                  <div class="align-self-center"><i class="fa fa-volume-up"></i></div>
-                  <div class="ml-1"><i class="fa fa-angle-down"></i></div>              
-                </div>
-                <div class="col-1 d-flex  align-items-center ml-4" id="icon-2" >
-                  <div>
-                    <i class="fa fa-bars"></i>
-                  </div>                 
-                </div>       
-            </div>
-          </nav>
+            <nav class="mt-4">
+               <div class="row mt-2 justify-content-end align-items-center no-gutters">      
+                  <div class="col-1 d-flex justify-content-end " >
+                    <div class="align-self-center"><i class="fa fa-volume-up"></i></div>
+                    <div class="ml-1"><i class="fa fa-angle-down"></i></div>              
+                  </div>
+                  <div class="col-1 d-flex  align-items-center ml-4" id="icon-hamburger" >
+                    <button class="btn hamburger">
+                      <i class="fa fa-bars"></i>
+                    </button>                 
+                  </div>       
+              </div>
+            </nav>
     </div>
 
     <div class="container">
@@ -48,7 +89,7 @@
           </div>
         </div> 
         <div class="row justify-content-center mt-4">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7 mt-2">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-7 col-xl-7 mt-2 hidden-for-side-bar">
                 <div class="input-group input-group-lg mb-3">
                   <input id="back-to-search" type="text" class="form-control border-right-0 ">
                   <div class="input-group-append">
@@ -60,6 +101,7 @@
         
     </div>
 </header>
+
 
 
 <section class="main-section">
@@ -83,7 +125,7 @@
                   We don't track you. Ever.
                 </li>
               </ol>
-              <a class="home_link" href="https://duckduckgo.com/install?t=hr">Add DuckDuckGo to Chrome</a>
+              <a class="home_link btn btn-lg" role="button" href="https://duckduckgo.com/install?t=hr">Add DuckDuckGo to Chrome</a>
               <div>
                 <p>Trusted by <b>millons</b> worldwide</p>
               </div>
