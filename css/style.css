@@ -305,15 +305,15 @@ border-right-color: rgba(138,138,138,0.9) !important;
     font-size: 14px;
     color: rgba(0,0,0,0.4);
 }
-.back-search{
+.back-search a{
     cursor: pointer;
     color: rgba(0,0,0,0.7);
     font-weight: 700;
     font-size: 16px;
     line-height:25.6px;
-    text-decoration:none solid rgba(0, 0, 0, 0.7);
-    
-
+}
+.back-search a:hover {
+    text-decoration:none;
 }
 
 
@@ -356,8 +356,9 @@ a:hover .add-chrome-last{
 
 }
 .card-text  a:visited, a:hover, a:active{
-    text-decoration: none;
-    color: #fff;
+    cursor: pointer;
+    color: rgba(0,0,0,0.7);
+    font-weight: bold;
 }
 #article-5 .btn:hover {
     text-decoration: none;
